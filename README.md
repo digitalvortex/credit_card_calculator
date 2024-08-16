@@ -15,7 +15,7 @@ This project provides a credit card calculator that allows users to perform vari
 
 1. Clone the repository and navigate to the project directory:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/digitalvortex/credit_card_calculator.git
     cd credit_card_calculator
     ```
 2. Create a virtual environment:
