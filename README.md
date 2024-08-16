@@ -35,3 +35,7 @@ This project provides a credit card calculator that allows users to perform vari
     python3 main.py
     ```
 
+
+## Note
+Runs on Linux fine, had issues running on MacBook.
+
