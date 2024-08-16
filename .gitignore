@@ -1,0 +1,23 @@
+# Ignore virtual environment directories
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore package dependencies
+*.egg-info/
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.swp
